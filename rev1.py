@@ -8,4 +8,3 @@ while(a>=0):
 	k=k//10
 	a=k
 print(rev)
-
