@@ -294,7 +294,11 @@ with nested_break() as mylabel:  #mylabel IS ARBITARARILY CHOSEN TO COMPLETELY B
 				if(e=="no"):
 					i=2		
 				elif(n==2):
-					print("ENTER UR CARD NO AND PIN")
+					print("ENTER UR CARD NO")
+					input()
+					print("ENTER UR NAME")
+					input()
+					print("ENTER CVV")
 					input()
 					print("TO IDENTIFY WHETHER U ARE A HUMAN OR NOT.....PLEASE ENTER THE WORDS OF THE CAPTCHA GIVEN BELOW")
 					j=0
@@ -456,7 +460,11 @@ with nested_break() as mylabel:  #mylabel IS ARBITARARILY CHOSEN TO COMPLETELY B
 				if(e=="no"):
 					i=2		
 				elif(n==2):
-					print("ENTER UR CARD NO AND PIN")
+					print("ENTER UR CARD NO")
+					input()
+					print("ENTER UR NAME")
+					input()
+					print("ENTER CVV")
 					input()
 					print("TO IDENTIFY WHETHER U ARE A HUMAN OR NOT.....PLEASE ENTER THE WORDS OF THE CAPTCHA GIVEN BELOW")
 					j=0
@@ -662,7 +670,11 @@ with nested_break() as mylabel:  #mylabel IS ARBITARARILY CHOSEN TO COMPLETELY B
 				if(e=="no"):
 					i=2		
 				elif(n==2):
-					print("ENTER UR CARD NO AND PIN")
+					print("ENTER UR CARD NO")
+					input()
+					print("ENTER UR NAME")
+					input()
+					print("ENTER CVV")
 					input()
 					print("TO IDENTIFY WHETHER U ARE A HUMAN OR NOT.....PLEASE ENTER THE WORDS OF THE CAPTCHA GIVEN BELOW")
 					j=0
@@ -825,7 +837,11 @@ with nested_break() as mylabel:  #mylabel IS ARBITARARILY CHOSEN TO COMPLETELY B
 				if(e=="no"):
 					i=2		
 				elif(n==2):
-					print("ENTER UR CARD NO AND PIN")
+					print("ENTER UR CARD NO")
+					input()
+					print("ENTER UR NAME")
+					input()
+					print("ENTER CVV")
 					input()
 					print("TO IDENTIFY WHETHER U ARE A HUMAN OR NOT.....PLEASE ENTER THE WORDS OF THE CAPTCHA GIVEN BELOW")
 					j=0
@@ -988,7 +1004,11 @@ with nested_break() as mylabel:  #mylabel IS ARBITARARILY CHOSEN TO COMPLETELY B
 				if(e=="no"):
 					i=2		
 				elif(n==2):
-					print("ENTER UR CARD NO AND PIN")
+					print("ENTER UR CARD NO")
+					input()
+					print("ENTER UR NAME")
+					input()
+					print("ENTER CVV")
 					input()
 					print("TO IDENTIFY WHETHER U ARE A HUMAN OR NOT.....PLEASE ENTER THE WORDS OF THE CAPTCHA GIVEN BELOW")
 					j=0
@@ -1160,7 +1180,11 @@ with nested_break() as mylabel:  #mylabel IS ARBITARARILY CHOSEN TO COMPLETELY B
 				if(e=="no"):
 					i=2		
 				elif(n==2):
-					print("ENTER UR CARD NO AND PIN")
+					print("ENTER UR CARD NO")
+					input()
+					print("ENTER UR NAME")
+					input()
+					print("ENTER CVV")
 					input()
 					print("TO IDENTIFY WHETHER U ARE A HUMAN OR NOT.....PLEASE ENTER THE WORDS OF THE CAPTCHA GIVEN BELOW")
 					j=0
@@ -1323,7 +1347,11 @@ with nested_break() as mylabel:  #mylabel IS ARBITARARILY CHOSEN TO COMPLETELY B
 				if(e=="no"):
 					i=2		
 				elif(n==2):
-					print("ENTER UR CARD NO AND PIN")
+					print("ENTER UR CARD NO")
+					input()
+					print("ENTER UR NAME")
+					input()
+					print("ENTER CVV")
 					input()
 					print("TO IDENTIFY WHETHER U ARE A HUMAN OR NOT.....PLEASE ENTER THE WORDS OF THE CAPTCHA GIVEN BELOW")
 					j=0
@@ -1487,7 +1515,11 @@ with nested_break() as mylabel:  #mylabel IS ARBITARARILY CHOSEN TO COMPLETELY B
 				if(e=="no"):
 					i=2		
 				elif(n==2):
-					print("ENTER UR CARD NO AND PIN")
+					print("ENTER UR CARD NO")
+					input()
+					print("ENTER UR NAME")
+					input()
+					print("ENTER CVV")
 					input()
 					print("TO IDENTIFY WHETHER U ARE A HUMAN OR NOT.....PLEASE ENTER THE WORDS OF THE CAPTCHA GIVEN BELOW")
 					j=0
@@ -1660,7 +1692,11 @@ with nested_break() as mylabel:  #mylabel IS ARBITARARILY CHOSEN TO COMPLETELY B
 				if(e=="no"):
 					i=2		
 				elif(n==2):
-					print("ENTER UR CARD NO AND PIN")
+					print("ENTER UR CARD NO")
+					input()
+					print("ENTER UR NAME")
+					input()
+					print("ENTER CVV")
 					input()
 					print("TO IDENTIFY WHETHER U ARE A HUMAN OR NOT.....PLEASE ENTER THE WORDS OF THE CAPTCHA GIVEN BELOW")
 					j=0
@@ -1823,7 +1859,11 @@ with nested_break() as mylabel:  #mylabel IS ARBITARARILY CHOSEN TO COMPLETELY B
 				if(e=="no"):
 					i=2		
 				elif(n==2):
-					print("ENTER UR CARD NO AND PIN")
+					print("ENTER UR CARD NO")
+					input()
+					print("ENTER UR NAME")
+					input()
+					print("ENTER CVV")
 					input()
 					print("TO IDENTIFY WHETHER U ARE A HUMAN OR NOT.....PLEASE ENTER THE WORDS OF THE CAPTCHA GIVEN BELOW")
 					j=0
@@ -1988,6 +2028,10 @@ with nested_break() as mylabel:  #mylabel IS ARBITARARILY CHOSEN TO COMPLETELY B
 					i=2		
 				elif(n==2):
 					print("ENTER UR CARD NO AND PIN")
+					input()
+					print("ENTER UR NAME")
+					input()
+					print("ENTER CVV")
 					input()
 					print("TO IDENTIFY WHETHER U ARE A HUMAN OR NOT.....PLEASE ENTER THE WORDS OF THE CAPTCHA GIVEN BELOW")
 					j=0
@@ -2161,6 +2205,10 @@ with nested_break() as mylabel:  #mylabel IS ARBITARARILY CHOSEN TO COMPLETELY B
 				elif(n==2):
 					print("ENTER UR CARD NO AND PIN")
 					input()
+					print("ENTER UR NAME")
+					input()
+					print("ENTER CVV")
+					input()
 					print("TO IDENTIFY WHETHER U ARE A HUMAN OR NOT.....PLEASE ENTER THE WORDS OF THE CAPTCHA GIVEN BELOW")
 					j=0
 					captcha=["not a robot","PQJRYD"]
@@ -2323,6 +2371,10 @@ with nested_break() as mylabel:  #mylabel IS ARBITARARILY CHOSEN TO COMPLETELY B
 				elif(n==2):
 					print("ENTER UR CARD NO AND PIN")
 					input()
+					print("ENTER UR NAME")
+					input()
+					print("ENTER CVV")
+					input()
 					print("TO IDENTIFY WHETHER U ARE A HUMAN OR NOT.....PLEASE ENTER THE WORDS OF THE CAPTCHA GIVEN BELOW")
 					j=0
 					captcha=["not a robot","PQJRYD"]
@@ -2484,6 +2536,10 @@ with nested_break() as mylabel:  #mylabel IS ARBITARARILY CHOSEN TO COMPLETELY B
 					i=2		
 				elif(n==2):
 					print("ENTER UR CARD NO AND PIN")
+					input()
+					print("ENTER UR NAME")
+					input()
+					print("ENTER CVV")
 					input()
 					print("TO IDENTIFY WHETHER U ARE A HUMAN OR NOT.....PLEASE ENTER THE WORDS OF THE CAPTCHA GIVEN BELOW")
 					j=0
