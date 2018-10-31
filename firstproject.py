@@ -17,32 +17,33 @@ while(i<=(k-1)):
 	print("ROCK...🗿...PAPER...📃....SCISSORS..✂..")  #THIS IS HOW I BEGUN THE GAME TRADITIONALLY....:)
 	time.sleep(2)
 	n=str(input())
+	m=n.lower()                 #CONVERTING INPUT TO LOWER CASE.....:)
 	print("THE COMPUTER CHOSE " + p[b])
 	time.sleep(2)                #PRINTS THINGS ACCORDING TO THE TIME GIVEN IN PARENTHESIS..TIME IN SEC:)
-	if(n==a[b]):
+	if(m==a[b]):
 		print("ITS A DRAW.....")
 		time.sleep(2)
-	if(n=="rock" and a[b]=="paper"):
+	if(m=="rock" and a[b]=="paper"):
 		print("COMPUTER WINS......PAPER COVERS ROCK")
 		time.sleep(2)
 		comp_score=comp_score+1
-	if(n=="rock" and a[b]=="scissors"):
+	if(m=="rock" and a[b]=="scissors"):
 		print("YOU WIN....ROCK BLUNTS SCISSORS")
 		time.sleep(2)
 		user_score=user_score+1
-	if(n=="paper" and a[b]=="rock"):                     #JUST CHECKING OUT ALL POSSIBILITIES....:)
+	if(m=="paper" and a[b]=="rock"):                     #JUST CHECKING OUT ALL POSSIBILITIES....:)
 		print("YOU WIN.....PAPER COVERS ROCK")
 		time.sleep(2)
 		user_score=user_score+1
-	if(n=="paper" and a[b]=="scissors"):
+	if(m=="paper" and a[b]=="scissors"):
 		print("COMPUTER WINS....SCISSORS CUT PAPER")
 		time.sleep(2)
 		comp_score=comp_score+1
-	if(n=="scissors" and a[b]=="rock"):
+	if(m=="scissors" and a[b]=="rock"):
 		print("COMPUTER WINS....ROCK BLUNTS SCISSORS")
 		time.sleep(2)
 		comp_score=comp_score+1
-	if(n=="scissors" and a[b]=="paper"):
+	if(m=="scissors" and a[b]=="paper"):
 		print("YOU WIN....SCISSORS CUT PAPER")
 		user_score=user_score+1
 	i=i+1
@@ -52,6 +53,8 @@ if(user_score>comp_score):
 	print("USER WINS")
 else:
 	print("COMPUTER WINS")
+if(user_score==comp_score):
+	print("ITS A DRAW.....")
 	
 	
 
