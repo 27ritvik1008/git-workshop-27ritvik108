@@ -3,10 +3,11 @@
 # A MAIL CAN BE SENT THROUGH PYTHON USING THE SMTP MODULE OF PYTHON
 # SMTP STANDS FOR Simple Mail Transfer Protocol .....
 
+import getpass
 import smtplib
 from email.mime.text import MIMEText as text #MIMEText helps in assigning subject and attachements to mail
 gmail_id = input("PLEASE ENTER UR GMAIL ID \n")
-gmail_password=input("ENTER UR PASSWORD \n")
+gmail_password= getpass.getpass("ENTER UR PASSWORD.... \n")
 receiver_id = input("ENTER THE RECIPIENT'S EMAIL ID \n")
 subject = input("ENTER THE SUBJECT OF THE MAIL \n")
 message = input("PLEASE ENTER THE MESSAGE U WISH TO SEND \n")
